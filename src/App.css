@@ -1,0 +1,10 @@
+.app {
+    background: url('/images/Image20240726202656.jpg') center / cover;
+    min-height: 100vh;
+    padding: 1rem;
+}
+
+.app {
+    min-height: 100vh;
+    padding: 1rem;
+  }
